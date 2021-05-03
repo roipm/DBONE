@@ -1,0 +1,2 @@
+# database
+Analisa_Persetaraan
